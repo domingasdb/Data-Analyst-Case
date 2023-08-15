@@ -1,2 +1,6 @@
 # Data-Analyst-Case
-Data Analyst Case - Cleaning Data, Exploratory Data Analysis, Data Visualization
+Data Analysis:
+- Cleaning Data - Python
+- Exploratory Data Analysis - Power BI
+- Data Visualization - Power BI
+  
